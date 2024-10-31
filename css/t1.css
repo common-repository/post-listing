@@ -1,0 +1,7 @@
+ul#ripl_template1{ list-style:none; }
+ul#ripl_template1 li h2{
+    font-size: 18px;
+}
+ul#ripl_template1 li h2 a{
+	text-decoration:none;
+}
